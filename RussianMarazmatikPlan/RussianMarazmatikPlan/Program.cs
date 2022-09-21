@@ -30,7 +30,18 @@ internal class Program
                 }
                 else
                 { 
-                    Console.WriteLine("Смерть");
+                    Console.WriteLine("Вы попали в армию");
+                    Console.WriteLine("Плен или дезертирство?");
+                    Console.WriteLine("1. Да\n2. До конца");
+                    int armia = Convert.ToInt32(Console.ReadLine());
+                    if (armia == 1)
+                    {
+                        Console.WriteLine("Смерть в русской тюрьме");
+                    }
+                    else
+                    { 
+                        Console.WriteLine("Смерть");
+                    }
                 }
             }
             else
