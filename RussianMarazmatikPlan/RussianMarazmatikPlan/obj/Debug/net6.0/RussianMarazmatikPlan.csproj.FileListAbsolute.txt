@@ -1,0 +1,15 @@
+/home/kaito/RiderProjects/Pidarussia/RussianMarazmatikPlan/RussianMarazmatikPlan/bin/Debug/net6.0/RussianMarazmatikPlan
+/home/kaito/RiderProjects/Pidarussia/RussianMarazmatikPlan/RussianMarazmatikPlan/bin/Debug/net6.0/RussianMarazmatikPlan.deps.json
+/home/kaito/RiderProjects/Pidarussia/RussianMarazmatikPlan/RussianMarazmatikPlan/bin/Debug/net6.0/RussianMarazmatikPlan.runtimeconfig.json
+/home/kaito/RiderProjects/Pidarussia/RussianMarazmatikPlan/RussianMarazmatikPlan/bin/Debug/net6.0/RussianMarazmatikPlan.dll
+/home/kaito/RiderProjects/Pidarussia/RussianMarazmatikPlan/RussianMarazmatikPlan/bin/Debug/net6.0/ref/RussianMarazmatikPlan.dll
+/home/kaito/RiderProjects/Pidarussia/RussianMarazmatikPlan/RussianMarazmatikPlan/bin/Debug/net6.0/RussianMarazmatikPlan.pdb
+/home/kaito/RiderProjects/Pidarussia/RussianMarazmatikPlan/RussianMarazmatikPlan/obj/Debug/net6.0/RussianMarazmatikPlan.csproj.AssemblyReference.cache
+/home/kaito/RiderProjects/Pidarussia/RussianMarazmatikPlan/RussianMarazmatikPlan/obj/Debug/net6.0/RussianMarazmatikPlan.GeneratedMSBuildEditorConfig.editorconfig
+/home/kaito/RiderProjects/Pidarussia/RussianMarazmatikPlan/RussianMarazmatikPlan/obj/Debug/net6.0/RussianMarazmatikPlan.AssemblyInfoInputs.cache
+/home/kaito/RiderProjects/Pidarussia/RussianMarazmatikPlan/RussianMarazmatikPlan/obj/Debug/net6.0/RussianMarazmatikPlan.AssemblyInfo.cs
+/home/kaito/RiderProjects/Pidarussia/RussianMarazmatikPlan/RussianMarazmatikPlan/obj/Debug/net6.0/RussianMarazmatikPlan.csproj.CoreCompileInputs.cache
+/home/kaito/RiderProjects/Pidarussia/RussianMarazmatikPlan/RussianMarazmatikPlan/obj/Debug/net6.0/RussianMarazmatikPlan.dll
+/home/kaito/RiderProjects/Pidarussia/RussianMarazmatikPlan/RussianMarazmatikPlan/obj/Debug/net6.0/ref/RussianMarazmatikPlan.dll
+/home/kaito/RiderProjects/Pidarussia/RussianMarazmatikPlan/RussianMarazmatikPlan/obj/Debug/net6.0/RussianMarazmatikPlan.pdb
+/home/kaito/RiderProjects/Pidarussia/RussianMarazmatikPlan/RussianMarazmatikPlan/obj/Debug/net6.0/RussianMarazmatikPlan.genruntimeconfig.cache
